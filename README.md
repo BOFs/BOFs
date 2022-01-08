@@ -1,7 +1,4 @@
-# BOFs
-Beacon Object Files
-
-- https://github.com/topics/bof
+# BOFs：Beacon Object Files
 - [ ] https://github.com/EspressoCake/Needle_Sift_BOF
 - [ ] https://github.com/trustedsec/CS-Situational-Awareness-BOF
 - [ ] https://github.com/m57/cobaltstrike_bofs
