@@ -64,4 +64,6 @@
 - https://github.com/RobertDiep/sandbox-process-bof
 - https://github.com/cube0x0/LdapSignCheck
 - https://github.com/wumb0/rust_bof
+- https://github.com/cube0x0/SyscallPack
+- https://github.com/pwn1sher/CS-BOFs
 
