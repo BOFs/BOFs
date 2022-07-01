@@ -69,4 +69,5 @@
 - https://github.com/trustedsec/CS-Remote-OPs-BOF
 - https://github.com/yanghaoi/CobaltStrike_CNA
 - https://github.com/Octoberfest7/JumpSession_BOF
+- https://github.com/tijme/kernel-mii
 
