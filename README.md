@@ -70,4 +70,5 @@
 - https://github.com/yanghaoi/CobaltStrike_CNA
 - https://github.com/Octoberfest7/JumpSession_BOF
 - https://github.com/tijme/kernel-mii
+- https://github.com/netero1010/RDPHijack-BOF
 
