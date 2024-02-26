@@ -74,4 +74,5 @@
 - https://github.com/Cracked5pider/CoffeeLdr
 - https://tttang.com/archive/1786
 - https://github.com/mlcsec/ASRenum-BOF
+- https://github.com/KingOfTheNOPs/cookie-monster
 
